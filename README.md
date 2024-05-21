@@ -19,9 +19,9 @@
 
 - **Can I change key to turn left and right ?**   
     - Yes, for turning right,
-     change `xbutton2`([here](https://github.com/xninoush/Yawspeed/blob/6cdf7d23deba9b9cdc517da2339b643ceb0b4fd3/Yawspeed.ahk#L70) and [here](https://github.com/xninoush/Yawspeed/blob/6cdf7d23deba9b9cdc517da2339b643ceb0b4fd3/Yawspeed.ahk#L73)) to what key you want to turn right.
+     change `xbutton2`([here](https://github.com/xninoush/Yawspeed/blob/6cdf7d23deba9b9cdc517da2339b643ceb0b4fd3/Yawspeed.ahk#L70) and [here](https://github.com/xninoush/YawspeedAHK/blob/402cff3bdf318f513a90add054feb573394e03e2/Yawspeed.ahk#L73)) to what key you want to turn right.
      - For turning left,
-     change `xbutton1`([here](https://github.com/xninoush/Yawspeed/blob/6cdf7d23deba9b9cdc517da2339b643ceb0b4fd3/Yawspeed.ahk#L83) and [here](https://github.com/xninoush/Yawspeed/blob/6cdf7d23deba9b9cdc517da2339b643ceb0b4fd3/Yawspeed.ahk#L86)) to what key you want to turn left.
+     change `xbutton1`([here](https://github.com/xninoush/YawspeedAHK/blob/402cff3bdf318f513a90add054feb573394e03e2/Yawspeed.ahk#L83) and [here](https://github.com/xninoush/YawspeedAHK/blob/402cff3bdf318f513a90add054feb573394e03e2/Yawspeed.ahk#L86)) to what key you want to turn left.
 
 > [!NOTE]
 > Check the full [Key List](https://www.autohotkey.com/docs/v2/KeyList.htm).
